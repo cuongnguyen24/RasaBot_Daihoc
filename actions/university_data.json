@@ -1,0 +1,14 @@
+[
+    {
+        "name": "ĐH Bách Khoa TP.HCM",
+        "majors": ["Công nghệ thông tin", "Kỹ thuật cơ khí"],
+        "tuition": "25 triệu/năm",
+        "city": "TP Hồ Chí Minh"
+    },
+    {
+        "name": "ĐH Khoa học Tự nhiên",
+        "majors": ["Công nghệ thông tin", "Toán học"],
+        "tuition": "15 triệu/năm",
+        "city": "TP Hồ Chí Minh"
+    }
+]

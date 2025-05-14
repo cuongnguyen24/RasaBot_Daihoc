@@ -1,0 +1,14 @@
+[
+  {
+    "name": "major",
+    "pattern": "(\\bCông\\ nghệ\\ thông\\ tin\\b|\\bCNTT\\b|\\bKỹ\\ thuật\\ cơ\\ khí\\b|\\bKinh\\ tế\\b|\\bY\\ dược\\b|\\bToán\\ học\\b|\\bQuản\\ trị\\ kinh\\ doanh\\b|\\bĐiện\\ tử\\ viễn\\ thông\\b|\\bNgôn\\ ngữ\\ Anh\\b)"
+  },
+  {
+    "name": "university",
+    "pattern": "(\\bĐại\\ học\\ Bách\\ Khoa\\b|\\bĐH\\ Bách\\ Khoa\\b|\\bĐH\\ Bách\\ Khoa\\ TP\\.HCM\\b|\\bĐH\\ Khoa\\ học\\ Tự\\ nhiên\\b|\\bĐH\\ FPT\\b|\\bĐH\\ Kinh\\ tế\\ Quốc\\ dân\\b|\\bĐH\\ Y\\ Hà\\ Nội\\b|\\bĐH\\ Sư\\ phạm\\ TP\\.HCM\\b)"
+  },
+  {
+    "name": "city",
+    "pattern": "(\\bTP\\.HCM\\b|\\bHồ\\ Chí\\ Minh\\b|\\bHà\\ Nội\\b|\\bĐà\\ Nẵng\\b|\\bCần\\ Thơ\\b|\\bHuế\\b|\\bNha\\ Trang\\b|\\bHải\\ Phòng\\b)"
+  }
+]
